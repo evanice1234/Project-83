@@ -1,0 +1,20 @@
+
+h1
+{
+	color: pink; 
+	font-size: 45px;
+}
+.body_background {
+	
+background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
+body{
+cursor: pointer;
+}
